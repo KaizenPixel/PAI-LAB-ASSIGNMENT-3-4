@@ -1,4 +1,4 @@
-``bash
+
 section .data
     msg1 db "Enter first number: ",0
     len1 equ $-msg1
@@ -83,4 +83,4 @@ _start:
     mov eax, 1
     xor ebx, ebx
     int 0x80
-```
+
