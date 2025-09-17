@@ -12,7 +12,7 @@ The experiments are tested on **Ubuntu 18.04 LTS (VMWare)** using **NASM** and *
 ## 📌 Labs Included
 
 ### 🔹 Lab 3: Arithmetic Operations
-1. Addition (with registers, with user input)  
+1. Addition ( with user input)  
 2. Subtraction  
 3. Multiplication  
 4. Division  
