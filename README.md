@@ -25,9 +25,5 @@ The experiments are tested on **Ubuntu 18.04 LTS (VMWare)** using **NASM** and *
 
 ---
 
-## ⚙️ Setup Instructions
-1. Install NASM:
-   ```bash
-   sudo apt-get update
-   sudo apt-get install nasm
+
 
